@@ -560,9 +560,10 @@ constructor, in which case this DIP actually fixes the code.
 After all this information, I will talk a bit about future work:
 
 -> Smarter generation of copy constructors.
+
 -> Generating opAssign from copy constructors.
 
 I don't know yet how long the presentation will take as I don't have the slides now, but depending on how much
 time I will have left I can go into a lot of details on the above mentioned topics.
 
-After that, I will wrap it up somehow.
+After that, I will wrap it up.
