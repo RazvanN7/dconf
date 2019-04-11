@@ -1,6 +1,6 @@
 # Introducing the Copy Constructor – Talk outline
 
-NOTE: Most of the technical aspects are copy pasted from the DIP as I wrote the DIP having a potential presentation
+NOTE: Most of the technical aspects are copy pasted from the DIP as I wrote the DIP having a potential presentation in mind
 
 Last year, in this period, I was trying to fix some issues regarding the postblit and came to the conclusion
 that it has some insurmountable problems, which I will later discuss. The alternative to the postblit is the
